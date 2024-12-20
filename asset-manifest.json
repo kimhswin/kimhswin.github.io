@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63bb70fc.css",
+    "main.js": "/static/js/main.5bdbad29.js",
+    "static/media/main_video2.mp4": "/static/media/main_video2.4344707203cc5694ab8e.mp4",
+    "static/media/edu_05.jpg": "/static/media/edu_05.bcffd6d446608c42610e.jpg",
+    "static/media/edu_01.jpg": "/static/media/edu_01.913d9964685171d1963b.jpg",
+    "static/media/edu_02.jpg": "/static/media/edu_02.a37b37052b459891f3eb.jpg",
+    "static/media/edu_03.jpg": "/static/media/edu_03.9249d7ac5a1453cee36b.jpg",
+    "static/media/edu_04.jpg": "/static/media/edu_04.c369822f0f5f11610684.jpg",
+    "static/media/drone_farm.jpg": "/static/media/drone_farm.9763588b4b7bbc2d5875.jpg",
+    "static/media/drone_assemble.jpg": "/static/media/drone_assemble.886fe7059d5bd13d06e7.jpg",
+    "static/media/drone_education.jpg": "/static/media/drone_education.f3abd3aa33e27b8ceb84.jpg",
+    "static/media/shopping2.jpg": "/static/media/shopping2.4b6ce3f4330433713053.jpg",
+    "static/media/drone_deliver.jpg": "/static/media/drone_deliver.3fd50b6eb32fcf881894.jpg",
+    "static/media/edu_06.jpg": "/static/media/edu_06.02ed623fa3cdf54d885b.jpg",
+    "static/media/drone_camera.jpg": "/static/media/drone_camera.8248b30150fe6663fbb2.jpg",
+    "static/media/map.jpg": "/static/media/map.589cbbda47470ca05d4d.jpg",
+    "static/media/farm_01.jpg": "/static/media/farm_01.b8889d351678981a6311.jpg",
+    "static/media/g.jpg": "/static/media/g.59dfc797f259bf685ba2.jpg",
+    "static/media/farm_02.jpg": "/static/media/farm_02.803a0c027edd9757f05c.jpg",
+    "static/media/farm_03.jpg": "/static/media/farm_03.6ac987dcd61b4ceea30d.jpg",
+    "static/media/farm_04.jpg": "/static/media/farm_04.13aa39a7f551a668bd93.jpg",
+    "static/media/cert_05.jpg": "/static/media/cert_05.5ddabc30bfafa9be9a37.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.63bb70fc.css.map": "/static/css/main.63bb70fc.css.map",
+    "main.5bdbad29.js.map": "/static/js/main.5bdbad29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63bb70fc.css",
+    "static/js/main.5bdbad29.js"
+  ]
+}
